@@ -97,6 +97,9 @@ static const gchar *const keyboard_event_drivers[] = {
 	/** Input layer name for the power button in various MeeGo devices */
 	"msic_power_btn",
 
+	/** Input layer name for the power button in various MeeGo devices */
+	"msic_power_btn",
+
 	/** Input layer name for the TWL4030 power button */
 	"twl4030_pwrbutton",
 
